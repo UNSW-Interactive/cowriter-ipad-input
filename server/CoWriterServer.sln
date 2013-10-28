@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.3
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoWriterServer", "CoWriterServer.csproj", "{B79EA4D9-3B79-46E6-BFCB-673DC640201B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B79EA4D9-3B79-46E6-BFCB-673DC640201B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79EA4D9-3B79-46E6-BFCB-673DC640201B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79EA4D9-3B79-46E6-BFCB-673DC640201B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B79EA4D9-3B79-46E6-BFCB-673DC640201B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
